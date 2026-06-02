@@ -1,7 +1,16 @@
 # Steam Game Success Prediction
 
-NOTEBOOK LINK:
-https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing
+---
+
+## 🚀 NOTEBOOK — CLICK TO OPEN IN GOOGLE COLAB
+
+# [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing)
+
+## 🔗 [https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing](https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing)
+
+> **⬆️ Notebook'u açmak için yukarıdaki bağlantıya tıklayın / Click the link above to open the notebook**
+
+---
 
 Predicting whether a game on Steam will be well received by players, using a Wilson-scored success label, K-Means archetypes and three classifiers (Logistic Regression, Random Forest and a tuned XGBoost).
 
