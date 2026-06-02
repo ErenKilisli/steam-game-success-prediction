@@ -1,5 +1,8 @@
 # Steam Game Success Prediction
 
+NOTEBOOK LINK:
+https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing
+
 Predicting whether a game on Steam will be well received by players, using a Wilson-scored success label, K-Means archetypes and three classifiers (Logistic Regression, Random Forest and a tuned XGBoost).
 
 This repository contains the Python notebook that produced every result, figure and table in the report **"Machine Learning Business Problem Solution"**, submitted for the MSc Information Technology Management module *Machine Learning and Visualization for Data* (BSBI).
