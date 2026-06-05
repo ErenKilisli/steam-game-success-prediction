@@ -8,7 +8,7 @@
 
 ## 🔗 [https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing](https://colab.research.google.com/drive/1HdMbSw8K6ejrKt1UZB_NTVFBMD_1AMmA?usp=sharing)
 
-> **⬆️ Notebook'u açmak için yukarıdaki bağlantıya tıklayın / Click the link above to open the notebook**
+> **⬆️ Click the link above to open the notebook**
 
 ---
 
